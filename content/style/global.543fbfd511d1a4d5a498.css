@@ -1,0 +1,30 @@
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: left;
+}
+
+.scrollspy-example {
+  position: relative;
+  height: 200px;
+  margin-top: .5rem;
+  overflow: auto;
+}
+
+.demo-icon-list .demo-icon {
+  display: block;
+  margin: 7px 0;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.demo-icon-list i {
+  display: inline-block;
+  padding: 10px 10px;
+  width: 2em;
+  text-align: center;
+  font-size: 1.7em;
+  vertical-align: middle;
+  color: #444;
+}
